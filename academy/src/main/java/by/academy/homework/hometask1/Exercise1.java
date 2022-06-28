@@ -1,7 +1,7 @@
 
 package main.java.by.academy.homework.hometask1;
 import java.util.Scanner;
-public class exercise1 {
+public class Exercise1 {
     public static void main(String[] args) {
 
         double price;

@@ -1,6 +1,6 @@
 package main.java.by.academy.homework.hometask1;
 
-public class exercise4 {
+public class Exercise4 {
     public static void main(String[] args) {
         int x = 2;
         long res;
